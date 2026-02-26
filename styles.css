@@ -17,10 +17,10 @@ body{
             }
 
  h1{
-	font-family: 'Lobster', cursive;
+	font-family: 'Lobster', cursive !important;
 	font-size: 50px;
-	color: white;
-	text-align: center;
+	color: white !important;
+	text-align: center !important;
 }
 
 
