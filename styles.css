@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-color: azure;
+    margin: 50px;
+    animation: fadeInAnimation ease 3s;
+	            animation-iteration-count: 1;
+	            animation-fill-mode: forwards;
+	    } 
+	    @keyframes fadeInAnimation{
+	            0% {
+	                opacity: 0;
+	            }
+
+	            100% {
+	                opacity: 1;
+                }
+            }
+
+#navbar {
+            background-color: rgba(0,0,0,0.3);
+            padding: 15px;
+            text-align: center;
+        }
+
+        #navbar a {
+            color: white;
+            text-decoration: none;
+            margin: 0 20px;
+            font-weight: bold;
+        }
+
+        #navbar a:hover {
+            text-decoration: underline;
+        }
+
+
+#border{
+    margin:auto;
+    border: black thin solid;
+    width: 500px;
+    height: 370px;
+    padding: 15px;
+}
+
+#containuhr{
+    border: black thin solid;
+    width: 470px;
+    height: 360x;
+    padding: 5px;
+}
+
+#show{
+    margin-top: 10px;
+    border: black thin solid;
+    width: 455px;
+    height: 400x;
+}
+
+#the{
+    font-size: 10px;
+    width: 400px;
+   
+}
