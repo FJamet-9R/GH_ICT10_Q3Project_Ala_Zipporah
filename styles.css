@@ -34,19 +34,13 @@ body{
         }
 
 
-#border{
-    margin:auto;
-    border: black thin solid;
-    width: 500px;
-    height: 370px;
-    padding: 15px;
-}
-
 #containuhr{
+	margin: auto;
     border: black thin solid;
     width: 470px;
     height: 360x;
     padding: 5px;
+	background-color: white;
 }
 
 #show{
