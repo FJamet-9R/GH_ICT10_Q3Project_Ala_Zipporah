@@ -49,6 +49,8 @@ body{
     height: 480x;
     padding: 5px;
 	background-color: white;
+	margin: auto;
+	margin-top: 50px;
 }
 
 #output{
@@ -63,6 +65,7 @@ body{
     width: 400px;
    
 }
+
 
 
 
